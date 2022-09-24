@@ -3,8 +3,7 @@ So you want an easy way to load multiple Excel worksheets in Pandas? In this vid
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/ual8QWlEQH4/0.jpg)](https://youtu.be/ual8QWlEQH4)
 
 
 ## About Me
